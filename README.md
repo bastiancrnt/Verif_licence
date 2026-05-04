@@ -10,7 +10,7 @@ En tant que co-responsable du Challenge Centrale Lyon (3 000 participants), la v
 
 - Connexion automatique au portail de gestion FFSU
 - Traitement par lot depuis un fichier CSV
-- Correspondance intelligente par nom + numéro de licence
+- Correspondance par nom + numéro de licence
 - Gestion des cas particuliers : nom introuvable, résultats ambigus, numéro de licence manquant
 - Export des résultats dans un nouveau CSV avec les statuts
 
