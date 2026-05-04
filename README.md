@@ -48,7 +48,7 @@ NUM_LEN = 7    # longueur du numéro de licence (complété par des zéros)
 3. Lance le script :
 
 ```bash
-python main.py
+python FFSU.py
 ```
 
 4. Les résultats sont écrits dans `FFSU_resultats.csv` :
