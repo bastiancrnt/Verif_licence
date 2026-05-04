@@ -3,8 +3,8 @@ from playwright.async_api import async_playwright
 import pandas as pd
 
 # --------- CONFIG
-USERNAME = "0985535"
-PASSWORD = "Challenge.2026"
+USERNAME = ""
+PASSWORD = ""
 
 CSV_IN = "FFSU.csv"
 CSV_OUT = "FFSU_resultats.csv"
